@@ -22,11 +22,11 @@ $ tor --SOCKSPort 8082
 ```
 leave that running
 ```
-$ netstat -tupln
+$ netstat -tunpl
 ```
-will show what ports are open aka <b>"tuple-in"</b>
+will show what ports are open aka <b>"netstat tuna please"</b>
 
-Now you can run the code:
+Now you can run the code
 ```
 $ python tor-ip-test.py
 
