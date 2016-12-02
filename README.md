@@ -55,5 +55,12 @@ add `MaxCircuitDirtiness 15` to the bottom of `etc/tor/torrc` for refresh every 
 
 Bonus: Those 4 above were all labeled "Anonymous Proxy" at http://geoip.com. 
 
-
 Cool!
+
+#### Double Bonus: Setting a specific country
+as per https://malwaretips.com/threads/how-to-change-ip-address-on-tor-browser-into-specific-country.27653/
+
+`etc/tor/torrc`
+<img src="https://malwaretips.com/proxy.php?image=http%3A%2F%2Fi58.tinypic.com%2Fo0p1s2.jpg&hash=50c381b0cf99b746e516df587a93db91" />
+
+This also works. 
